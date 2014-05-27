@@ -1,0 +1,577 @@
+TCapster
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Info.plist" "Growl Caps Notifier/Capster-Info.plist"
+cProcessPCH /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch.pth "Growl Caps Notifier/Capster-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch.pth "Growl Caps Notifier/Capster-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/GrowlController.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/CapsterAppDelegate.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/main.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/StatusbarController.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/GrowlController.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/main.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/CapsterAppDelegate.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/StatusbarController.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000516CEE6200000000000000AA
+t1366093410
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000505B79DD0000000000007C70
+t1348172253
+s31856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000514813020000000000002B7C
+t1363677954
+s11132
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000505B79DD00000000000025C8
+t1348172253
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000505B79DD00000000000001E5
+t1348172253
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c00000000505B79DE00000000000028D0
+t1348172254
+s10448
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000051481303000000000004DE20
+t1363677955
+s319008
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/../Growl.framework
+c0000000051B314BC00000000000000CC
+t1370690748
+s204
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/../Growl.framework/Growl
+c000000004E77C844000000000003F4B8
+t1316472900
+s259256
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/Capster-Prefix.pch
+c000000004E77C844000000000000008E
+t1316472900
+s142
+i<Cocoa/Cocoa.h>
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m
+c000000004E77C8440000000000002B58
+t1316472900
+s11096
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/Growl Registration Ticket.growlRegDict
+c000000004E77C844000000000000016F
+t1316472900
+s367
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m
+c000000004E77C8440000000000000742
+t1316472900
+s1858
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m
+c000000004E77C8440000000000000F69
+t1316472900
+s3945
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/caps_off.png
+c000000004E77C84400000000000010CC
+t1316472900
+s4300
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/caps_on.png
+c000000004E77C84400000000000011A3
+t1316472900
+s4515
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/caps_ter.png
+c000000004E77C8440000000000000EFE
+t1316472900
+s3838
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/capster.icns
+c000000004E77C844000000000001E55A
+t1316472900
+s124250
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/capster_led_green.png
+c000000004E77C84400000000000004FE
+t1316472900
+s1278
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/capster_led_red.png
+c000000004E77C84400000000000004E9
+t1316472900
+s1257
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/capster_mini.png
+c000000004E77C84400000000000004DD
+t1316472900
+s1245
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/capster_mini_green.png
+c000000004E77C8440000000000000574
+t1316472900
+s1396
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/capster_mini_off.png
+c000000004E77C844000000000000052E
+t1316472900
+s1326
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/capster_mini_red.png
+c000000004E77C8440000000000000694
+t1316472900
+s1684
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/defaults.plist
+c000000004E77C8440000000000000114
+t1316472900
+s276
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/dsa_pub.pem
+c000000004E77C844000000000000049A
+t1316472900
+s1178
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/en.lproj/Credits.rtf
+c000000004E77C84400000000000001B4
+t1316472900
+s436
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/en.lproj/InfoPlist.strings
+c000000004E77C844000000000000002D
+t1316472900
+s45
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/en.lproj/MainMenu.xib
+c000000004E77C844000000000000D2B7
+t1316472900
+s53943
+
+N/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m
+c000000004E77C84400000000000000F6
+t1316472900
+s246
+
+N/Users/user/Downloads/Capster-master 2/Sparkle.framework
+c0000000051B314BC00000000000000CC
+t1370690748
+s204
+
+N/Users/user/Downloads/Capster-master 2/Sparkle.framework/Sparkle
+c000000004E77C84400000000000712B4
+t1316472900
+s463540
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/Capster
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/Capster.LinkFileList
+c0000000051B3161300000000000001D0
+t1370691091
+s464
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/CapsterAppDelegate.o
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/GrowlController.o
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/StatusbarController.o
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/Capster
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/Capster.LinkFileList
+c0000000051B3161300000000000001D8
+t1370691091
+s472
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/CapsterAppDelegate.o
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/GrowlController.o
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/StatusbarController.o
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Frameworks/Growl.framework
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Frameworks/Sparkle.framework
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Info.plist
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/MacOS/Capster
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/Growl Registration Ticket.growlRegDict
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/caps_off.png
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/caps_on.png
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/caps_ter.png
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/capster.icns
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/capster_led_green.png
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/capster_led_red.png
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/capster_mini.png
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/capster_mini_green.png
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/capster_mini_off.png
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/capster_mini_red.png
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/defaults.plist
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/dsa_pub.pem
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/en.lproj/Credits.rtf
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch.pth
+t2
+s0
+
+NGrowl Caps Notifier/Capster-Info.plist
+c000000004E77C844000000000000045E
+t1316472900
+s1118
+
+CBuild AST from "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m"
+r0
+
+CBuild AST from "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m"
+r0
+
+CBuild AST from "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m"
+r0
+
+CBuild AST from "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8352cc934d63b741^79aedb934d63b741^---0#1#0#--18"Check dependencies36"03A6CA19-FAD4-4052-93EB-692448D75008-
+
+CCompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/CapsterAppDelegate.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383892.478869
+e392383892.759186
+r0
+xCompileC
+xbuild/Capster.build/Debug/Capster.build/Objects-normal/i386/CapsterAppDelegate.o
+x/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m:10:
+oIn file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.h:14:
+o/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.h:10:9: fatal error: 'Growl/Growl.h' file not found
+o#import <Growl/Growl.h>
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m60b17a944d63b741^7862c2944d63b741^-392"In file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m:10:In file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.h:14:/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.h:10:9: fatal error: 'Growl/Growl.h' file not found#import <Growl/Growl.h>        ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/CapsterAppDelegate.m0000000000000000^3160"CompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/CapsterAppDelegate.o "Growl Caps Notifier/CapsterAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/i386" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" -include /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch -MMD -MT dependencies -MF "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/CapsterAppDelegate.d" --serialize-diagnostics "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/CapsterAppDelegate.dia" -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m" -o "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/CapsterAppDelegate.o"36"1DF20FCD-5C32-4173-80F5-A6EF0A60B665-
+
+CCompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/GrowlController.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383892.478864
+e392383892.759191
+r0
+xCompileC
+xbuild/Capster.build/Debug/Capster.build/Objects-normal/i386/GrowlController.o
+x/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m:9:
+o/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.h:10:9: fatal error: 'Growl/Growl.h' file not found
+o#import <Growl/Growl.h>
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.meab07a944d63b741^4965c2944d63b741^-282"In file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m:9:/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.h:10:9: fatal error: 'Growl/Growl.h' file not found#import <Growl/Growl.h>        ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/GrowlController.m0000000000000000^3142"CompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/GrowlController.o "Growl Caps Notifier/GrowlController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/i386" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" -include /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch -MMD -MT dependencies -MF "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/GrowlController.d" --serialize-diagnostics "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/GrowlController.dia" -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m" -o "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/GrowlController.o"36"AF98F8A7-0DAA-4B43-ADA5-6E0DC3161CE7-
+
+CCompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/StatusbarController.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383892.478886
+e392383892.540973
+r1
+xCompileC
+xbuild/Capster.build/Debug/Capster.build/Objects-normal/i386/StatusbarController.o
+x/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m4eb97a944d63b741^397c8a944d63b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/StatusbarController.m0000000000000000^3166"CompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/StatusbarController.o "Growl Caps Notifier/StatusbarController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/i386" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" -include /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch -MMD -MT dependencies -MF "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/StatusbarController.d" --serialize-diagnostics "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/StatusbarController.dia" -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m" -o "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/StatusbarController.o"36"15EAB2C2-FC33-4925-93BE-9629EC70547F-
+
+CCompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/main.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383892.478874
+e392383892.509346
+r1
+xCompileC
+xbuild/Capster.build/Debug/Capster.build/Objects-normal/i386/main.o
+x/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.ma3b17a944d63b741^956382944d63b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/main.m0000000000000000^3076"CompileC build/Capster.build/Debug/Capster.build/Objects-normal/i386/main.o "Growl Caps Notifier/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/i386" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" -include /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch -MMD -MT dependencies -MF "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/main.dia" -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m" -o "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/main.o"36"74029E0C-A13B-4292-9C61-6C009736C1C0-
+
+CCompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/CapsterAppDelegate.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383892.484563
+e392383892.759147
+r0
+xCompileC
+xbuild/Capster.build/Debug/Capster.build/Objects-normal/x86_64/CapsterAppDelegate.o
+x/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m:10:
+oIn file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.h:14:
+o/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.h:10:9: fatal error: 'Growl/Growl.h' file not found
+o#import <Growl/Growl.h>
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.mdb327c944d63b741^ee5ac2944d63b741^-392"In file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m:10:In file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.h:14:/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.h:10:9: fatal error: 'Growl/Growl.h' file not found#import <Growl/Growl.h>        ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/CapsterAppDelegate.m0000000000000000^3174"CompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/CapsterAppDelegate.o "Growl Caps Notifier/CapsterAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/x86_64" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" -include /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch -MMD -MT dependencies -MF "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/CapsterAppDelegate.d" --serialize-diagnostics "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/CapsterAppDelegate.dia" -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/CapsterAppDelegate.m" -o "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/CapsterAppDelegate.o"36"F8C74F40-C9BF-4AC1-9A06-799F67F444B7-
+
+CCompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/GrowlController.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383892.484547
+e392383892.658684
+r0
+xCompileC
+xbuild/Capster.build/Debug/Capster.build/Objects-normal/x86_64/GrowlController.o
+x/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m:9:
+o/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.h:10:9: fatal error: 'Growl/Growl.h' file not found
+o#import <Growl/Growl.h>
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m83337c944d63b741^359aa8944d63b741^-282"In file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m:9:/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.h:10:9: fatal error: 'Growl/Growl.h' file not found#import <Growl/Growl.h>        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@30"'Growl/Growl.h' file not found-392383892#18446744073709551615#0#1(2@101"In file included from /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m:9:-392383892#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@98"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/GrowlController.m0000000000000000^8#8#8#8#149#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@98"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/GrowlController.h0000000000000000^9#8#9#8#183#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@98"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/GrowlController.m0000000000000000^3156"CompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/GrowlController.o "Growl Caps Notifier/GrowlController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/x86_64" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" -include /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch -MMD -MT dependencies -MF "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/GrowlController.d" --serialize-diagnostics "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/GrowlController.dia" -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/GrowlController.m" -o "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/GrowlController.o"36"D86EC9EC-E779-4153-8586-DA55F51EE955-
+
+CCompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/StatusbarController.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383892.484576
+e392383892.549305
+r1
+xCompileC
+xbuild/Capster.build/Debug/Capster.build/Objects-normal/x86_64/StatusbarController.o
+x/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m8f347c944d63b741^419b8c944d63b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/StatusbarController.m0000000000000000^3180"CompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/StatusbarController.o "Growl Caps Notifier/StatusbarController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/x86_64" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" -include /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch -MMD -MT dependencies -MF "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/StatusbarController.d" --serialize-diagnostics "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/StatusbarController.dia" -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/StatusbarController.m" -o "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/StatusbarController.o"36"FAE556C2-C75F-4662-A696-0059D6485717-
+
+CCompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/main.o "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383892.484556
+e392383892.524617
+r1
+xCompileC
+xbuild/Capster.build/Debug/Capster.build/Objects-normal/x86_64/main.o
+x/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m4c347c944d63b741^734c86944d63b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/main.m0000000000000000^3090"CompileC build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/main.o "Growl Caps Notifier/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/x86_64" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" -include /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch -MMD -MT dependencies -MF "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/main.dia" -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/main.m" -o "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/main.o"36"08637561-A116-4020-8659-39C54D43689E-
+
+CCompileXIB "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/en.lproj/MainMenu.xib"
+r0
+
+CCopyPlistFile "/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/defaults.plist" "Growl Caps Notifier/defaults.plist"
+r0
+
+CCopyStringsFile "/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Resources/en.lproj/InfoPlist.strings" "Growl Caps Notifier/en.lproj/InfoPlist.strings"
+r0
+
+CCpResource "Growl Caps Notifier/Growl Registration Ticket.growlRegDict" "build/Debug/Capster.app/Contents/Resources/Growl Registration Ticket.growlRegDict"
+r0
+
+CCpResource "Growl Caps Notifier/caps_off.png" build/Debug/Capster.app/Contents/Resources/caps_off.png
+r0
+
+CCpResource "Growl Caps Notifier/caps_on.png" build/Debug/Capster.app/Contents/Resources/caps_on.png
+r0
+
+CCpResource "Growl Caps Notifier/caps_ter.png" build/Debug/Capster.app/Contents/Resources/caps_ter.png
+r0
+
+CCpResource "Growl Caps Notifier/capster.icns" build/Debug/Capster.app/Contents/Resources/capster.icns
+r0
+
+CCpResource "Growl Caps Notifier/capster_led_green.png" build/Debug/Capster.app/Contents/Resources/capster_led_green.png
+r0
+
+CCpResource "Growl Caps Notifier/capster_led_red.png" build/Debug/Capster.app/Contents/Resources/capster_led_red.png
+r0
+
+CCpResource "Growl Caps Notifier/capster_mini.png" build/Debug/Capster.app/Contents/Resources/capster_mini.png
+r0
+
+CCpResource "Growl Caps Notifier/capster_mini_green.png" build/Debug/Capster.app/Contents/Resources/capster_mini_green.png
+r0
+
+CCpResource "Growl Caps Notifier/capster_mini_off.png" build/Debug/Capster.app/Contents/Resources/capster_mini_off.png
+r0
+
+CCpResource "Growl Caps Notifier/capster_mini_red.png" build/Debug/Capster.app/Contents/Resources/capster_mini_red.png
+r0
+
+CCpResource "Growl Caps Notifier/dsa_pub.pem" build/Debug/Capster.app/Contents/Resources/dsa_pub.pem
+r0
+
+CCpResource "Growl Caps Notifier/en.lproj/Credits.rtf" build/Debug/Capster.app/Contents/Resources/en.lproj/Credits.rtf
+r0
+
+CCreateUniversalBinary "/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/MacOS/Capster" normal "x86_64 i386"
+r0
+
+CLd "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/i386/Capster" normal i386
+r0
+
+CLd "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Objects-normal/x86_64/Capster" normal x86_64
+r0
+
+CPBXCp "Growl Caps Notifier/../Growl.framework" build/Debug/Capster.app/Contents/Frameworks/Growl.framework
+r0
+
+CPBXCp Sparkle.framework build/Debug/Capster.app/Contents/Frameworks/Sparkle.framework
+r0
+
+CProcessInfoPlistFile "/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Info.plist" "Growl Caps Notifier/Capster-Info.plist"
+s392383891.869512
+e392383891.872282
+r1
+xProcessInfoPlistFile
+x/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Info.plist
+xGrowl Caps Notifier/Capster-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process Growl Caps Notifier/Capster-Info.plist8aabde934d63b741^0877df934d63b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/Capster-Info.plist0000000000000000^444"ProcessInfoPlistFile build/Debug/Capster.app/Contents/Info.plist "Growl Caps Notifier/Capster-Info.plist"    cd "/Users/user/Downloads/Capster-master 2"    builtin-infoPlistUtility "Growl Caps Notifier/Capster-Info.plist" -genpkginfo "/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app/Contents/Info.plist"36"43483688-A35D-4327-9449-90C8C33ABD9C-
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/Capster-bveopmzrhaarcmguhpwmxpxesous/Index/PrecompiledHeaders/Capster-Prefix-csfzkpnldfwmypgkvivmtxyrubla_ast/Capster-Prefix.pch.pth "Growl Caps Notifier/Capster-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/Capster-bveopmzrhaarcmguhpwmxpxesous/Index/PrecompiledHeaders/Capster-Prefix-exuppnrunnribhefuieqakvhloih_ast/Capster-Prefix.pch.pth "Growl Caps Notifier/Capster-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch.pth "Growl Caps Notifier/Capster-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383891.880410
+e392383892.472565
+r1
+xProcessPCH
+x/var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch.pth
+xGrowl Caps Notifier/Capster-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile Growl Caps Notifier/Capster-Prefix.pch6682e1934d63b741^90f978944d63b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/Capster-Prefix.pch0000000000000000^3192"ProcessPCH /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch.pth "Growl Caps Notifier/Capster-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/i386" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" --serialize-diagnostics /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch.dia -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/Capster-Prefix.pch" -o /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-dnsvgyzzperibofhrhlidtdgnuuk/Capster-Prefix.pch.d36"47A34303-5C05-4160-A12D-0A681BCF329A-
+
+CProcessPCH /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch.pth "Growl Caps Notifier/Capster-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392383891.880376
+e392383892.478168
+r1
+xProcessPCH
+x/var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch.pth
+xGrowl Caps Notifier/Capster-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile Growl Caps Notifier/Capster-Prefix.pchba82e1934d63b741^f9677a944d63b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/user/Downloads/Capster-master%202/Growl%20Caps%20Notifier/Capster-Prefix.pch0000000000000000^3198"ProcessPCH /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch.pth "Growl Caps Notifier/Capster-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/user/Downloads/Capster-master 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-generated-files.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-own-target-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-all-target-headers.hmap" -iquote "/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/Capster-project-headers.hmap" "-I/Users/user/Downloads/Capster-master 2/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources/x86_64" "-I/Users/user/Downloads/Capster-master 2/build/Capster.build/Debug/Capster.build/DerivedSources" "-F/Users/user/Downloads/Capster-master 2/build/Debug" "-F/Users/user/Downloads/Capster-master 2/Growl Caps Notifier" "-F/Users/user/Downloads/Capster-master 2" --serialize-diagnostics /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch.dia -c "/Users/user/Downloads/Capster-master 2/Growl Caps Notifier/Capster-Prefix.pch" -o /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/b3/4htxw3rx2gg4s2x296560c8m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Capster-Prefix-fhhfolkthzgzgifefrlclhbzyzbv/Capster-Prefix.pch.d36"CC02663C-5BE7-4765-A5BC-A29833618052-
+
+CTouch "/Users/user/Downloads/Capster-master 2/build/Debug/Capster.app"
+r0
+
