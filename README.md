@@ -2,7 +2,7 @@ Caps-layout
 ===========
 
 Переключение между русской и английской раскладками клавишей Caps Lock в Mac OS X  
-[Скачать v1.0](releases/download/v1.0/Caps-layout.dmg)
+[Скачать v1.0](https://github.com/falcn/Caps-layout/releases/download/v1.0/Caps-layout.dmg)
 
 ## Установка
 
