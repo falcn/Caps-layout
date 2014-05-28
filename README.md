@@ -2,9 +2,10 @@ Caps-layout
 ===========
 
 Переключение между русской и английской раскладками клавишей Caps Lock в Mac OS X  
-[Скачать v1.0](https://github.com/falcn/Caps-layout/releases/download/v1.0/Caps-layout.dmg)
 
 ## Установка
+
+[Скачать v1.0](https://github.com/falcn/Caps-layout/releases/download/v1.0/Caps-layout.dmg)
 
 1. Скопировать `Lipton_u.bundle` в `/Library/Keyboard Layouts/`
 2. Включить раскладку `Lipton_u` в настройках клавиатуры
@@ -32,17 +33,17 @@ Caps-layout
 [Obsidian menu bar](http://www.obsidianmenubar.com)  
 
 `Shift`+`Caps` - вызвать опции Capster  
-![Capster settings](capster_settings2.png)
+![Capster settings](img/capster_settings2.png)
 
-![us](us.png)  
+![us](img/us.png)  
   
-![ru](ru.png)  
+![ru](img/ru.png)  
 
 Альтернативные иконки для кириллицы (необходимо заменить `Capster.app/Contents/Resources/capster_mini.png`)
 
-![ua](ua.png)
+![ua](img/ua.png)
 
-![ua_](ua_.png)
+![ua_](img/ua_.png)
 
 
 ## Прочее
