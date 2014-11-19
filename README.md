@@ -45,7 +45,7 @@ Caps-layout
 
 Альтернативные иконки для кириллицы (необходимо заменить `Capster.app/Contents/Resources/capster_mini.png`)
 
-<img width=50% height-50% src='img/ua_dark.gif">
+<img width=50% height-50% src='img/ua_dark.gif'>
 
 
 ## Прочее
