@@ -55,6 +55,11 @@ Caps-layout
 Если в опциях клавиатуры выставить "Caps Lock key" в None, нажать "Ok", после чего снова выставить "Caps Lock key" в "Caps Lock", "Ok", задержка исчезает. Эффект держится до перезагрузки.  
 `Caps Lock fix.app` делает это автоматически.
 
+Для того, чтобы сделать caps-layout раскладкой по-умолчанию, нужно запустить Setup Assistant из терминала, выбрать эту раскладку в качестве основной, дойти до создания нового пользователя и нажать `Cmd`+`Q` 
+
+`$ sudo /System/Library/CoreServices/Setup\ Assistant.app/Contents/MacOS/Setup\ Assistant`
+
+
 ## Ссылки
 
 Сделано на основе раскладки [Lipton](http://azaitsev.com/avt/caps_switch_macos.html)  
