@@ -5,7 +5,7 @@ Caps-layout
 
 ## Установка
 
-[Скачать v1.1](https://github.com/falcn/Caps-layout/releases/download/v1.0/caps-layout.dmg)
+[Скачать v1.1](https://github.com/falcn/Caps-layout/releases/download/v1.1/caps-layout.dmg)
 
 * Скопировать `caps-layout.bundle` в `/Library/Keyboard Layouts/`
 * Включить раскладку `Caps Layout` в настройках клавиатуры (Russian -> Caps Layout) 
