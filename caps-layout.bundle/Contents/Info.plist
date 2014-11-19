@@ -8,6 +8,13 @@
 	<string>Lipton</string>
 	<key>CFBundleVersion</key>
 	<string>0.1</string>
+	<key>KLInfo_Caps layout</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>com.apple.keyboardlayout.lipton.capslayout</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+	</dict>
 	<key>KLInfo_Lipton</key>
 	<dict>
 		<key>TISInputSourceID</key>

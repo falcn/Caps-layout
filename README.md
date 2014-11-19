@@ -1,18 +1,22 @@
 Caps-layout
 ===========
 
-Переключение между русской и английской раскладками клавишей Caps Lock в Mac OS X  
+Переключение между русской и английской раскладками клавишей Caps Lock в OS X системными средствами.
 
 ## Установка
 
-[Скачать v1.0](https://github.com/falcn/Caps-layout/releases/download/v1.0/Caps-layout.dmg)
+[Скачать v1.1](https://github.com/falcn/Caps-layout/releases/download/v1.0/caps-layout.dmg)
 
-1. Скопировать `Lipton_u.bundle` в `/Library/Keyboard Layouts/`
-2. Включить раскладку `Lipton_u` в настройках клавиатуры
-3. Скопировать `Capster.app` и `Caps Lock fix.app` в `/Applications`
-4. Добавить два вышеуказанных приложения в автозагрузку
+* Скопировать `caps-layout.bundle` в `/Library/Keyboard Layouts/`
+* Включить раскладку `Caps Layout` в настройках клавиатуры (Russian -> Caps Layout) 
 
-## Содержимое
+И опционально: 
+
+* Скопировать `Capster.app` и `Caps Lock fix.app` в `/Applications`
+* Добавить два вышеуказанных приложения в автозагрузку
+* Отключить системный индикатор раскладки
+
+## Содержимое Caps-layout.dmg
 
 * `Lipton_u.bundle` - клавиатурная раскладка для Caps Lock
 * `Capster.app` служит заменой системного индикатора раскладки, показывая, какая раскладка активна
@@ -29,26 +33,25 @@ Caps-layout
 
 ## Иконки
 
-По-умолчанию `Capster.app` идёт с парой затемнённых российской и американской иконок в наборе _Black App Icons_, которые хорошо смотрятся с 
-[Obsidian menu bar](http://www.obsidianmenubar.com)  
+По-умолчанию `Capster.app` идёт с парой затемнённых иконок российского и американского флагов в наборе _Black App Icons_, которые хорошо смотрятся с 
+[Obsidian menu bar](http://www.obsidianmenubar.com) и Dark Mode в OS X Yosemite 
 
 `Shift`+`Caps` - вызвать опции Capster  
 ![Capster settings](img/capster_settings2.png)
 
 ![us](img/us.png)  
-  
+
 ![ru](img/ru.png)  
 
 Альтернативные иконки для кириллицы (необходимо заменить `Capster.app/Contents/Resources/capster_mini.png`)
 
-![ua](img/ua.png)
-
-![ua_](img/ua_.png)
+<img width=50% height-50% src='img/ua_dark.gif">
 
 
 ## Прочее
 
-Для защиты от случайных срабатываний кнопка Caps Lock имеет задержку на переключение режима.
+Для защиты от случайных срабатываний кнопки Caps Lock в OS X реализована задержка на переключение режима.
+Однако, существует недокументированная возможность(баг?), позволяющая её отключить.
 Если в опциях клавиатуры выставить "Caps Lock key" в None, нажать "Ok", после чего снова выставить "Caps Lock key" в "Caps Lock", "Ok", задержка исчезает. Эффект держится до перезагрузки.  
 `Caps Lock fix.app` делает это автоматически.
 

@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>1</string>
+	<string></string>
 	<key>CFBundleVersion</key>
-	<string>0.1</string>
+	<string>0.2</string>
 	<key>ProjectName</key>
 	<string>Lipton</string>
 	<key>SourceVersion</key>
-	<string>9000</string>
+	<string></string>
 </dict>
 </plist>
