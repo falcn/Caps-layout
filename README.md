@@ -65,4 +65,5 @@ Caps-layout
 Сделано на основе раскладки [Lipton](http://azaitsev.com/avt/caps_switch_macos.html)  
 *Отличия: убраны growl уведомления, заменены иконки (+retina), добавлена двуязычная кириллическая раскладка.*
 
-Использована иконка и идея из [bandera-layout](https://github.com/muromec/bandera-layout)
+Использована иконка и идея из [bandera-layout](https://github.com/muromec/bandera-layout)  
+Программа для упорядочивания иконок в menubar: [Bartender](http://www.macbartender.com)
